@@ -1,7 +1,7 @@
 [project]
-name = "nmovie review"
+name = "next-word-predictor"
 version = "0.1.0"
-description = "A simple movie review application"
+description = "A simple next word predictor using LSTM."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []

@@ -1,5 +1,5 @@
 def main():
-    print("Hello from movie review!")
+    print("Hello from next-word-predictor!")
 
 
 if __name__ == "__main__":
